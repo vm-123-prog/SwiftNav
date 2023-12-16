@@ -20,6 +20,14 @@ Official Video: https://youtu.be/gFU9TikSTM0
 
 # SwiftNav (HERE API)
 
+## General Information
+
+**Project** folder contains the project created in Android Studio, it can be directly opened in Android Studio if installed
+**SwiftNav App Images** folder contains the pages images
+**Logo.png** is the Logo for SwiftNav
+**SwiftNav.apk** is the APK file which can be downloaded and installed to run the app
+
+
 ## Instructions to Run the App
 
 To run the app, [SwfitNav APK](https://drive.google.com/file/d/1pZitPtzOMSKuTllrr3NvNCihAXdp_7kI/view?usp=sharing) file for the app must be downloaded and installed (It is available  in Github Repository as well)
