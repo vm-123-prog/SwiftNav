@@ -20,6 +20,11 @@ Official Video: https://youtu.be/gFU9TikSTM0
 
 # SwiftNav (HERE API)
 
+## Instructions to Run the App
+
+To run the app, [SwfitNav APK](https://drive.google.com/file/d/1pZitPtzOMSKuTllrr3NvNCihAXdp_7kI/view?usp=sharing) file for the app must be downloaded and installed (It is available  in Github Repository as well)
+Or see [Programmatical Aspects](https://github.com/vm-123-prog/SwiftNav/tree/main?tab=readme-ov-file#programmatical-aspects) to run it using Android Studio
+
 ## Introduction
 
 
