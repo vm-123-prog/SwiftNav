@@ -32,6 +32,10 @@ SwiftNav is an acronym representing **Seamless Wayfinding and Integrated Fast Tr
 
 - Business Search, SwiftNav revolutionizes business searches with unparalleled ease. Users simply input the business name and location, seamlessly unlocking a treasure trove of results tailored to their query. Whether seeking petrol stations, cinemas, or any other business type, the app swiftly harnesses its advanced search capabilities to pinpoint relevant establishments around the specified location. The intuitive design ensures a hassle-free experience, empowering users to effortlessly discover and navigate diverse business options within their chosen vicinity. SwiftNav redefines convenience in business exploration, delivering tailored results at the user's fingertips.
 
+## Installation
+
+- Download [SwfitNav.apk](https://drive.google.com/file/d/1pZitPtzOMSKuTllrr3NvNCihAXdp_7kI/view?usp=sharing) and Install it
+
 
 ## Understanding Application
 
