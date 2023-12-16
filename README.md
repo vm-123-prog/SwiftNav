@@ -1,12 +1,20 @@
-# SwiftNav
+
 
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Logo.png">
-    <img src="./Logo.png" height=300px>
+    <img src="./Logo.png" height=200px>
   </picture>
 </p>
+
+---
+
+<h3 align="center">
+Official website: https://swiftnav.netlify.com
+</h3>
+
+# SwiftNav
 
 ## Introduction
 
