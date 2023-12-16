@@ -33,8 +33,8 @@ SwiftNav is an acronym representing **Seamless Wayfinding and Integrated Fast Tr
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Splash Page.jpg">
-    <img src="./Splash Page.jpg" height=500px>
+    <source media="(prefers-color-scheme: dark)" srcset="./SwiftNav App Images/Splash Screen.jpg">
+    <img src="./SwiftNav App Images/Splash Screen.jpg" height=500px>
   </picture>
 </p>
 
@@ -42,20 +42,48 @@ Upon initiating the application, users are greeted by a brief splash page that p
 
 ### Home Page
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./SwiftNav App Images/Menu Page.jpg">
+    <img src="./SwiftNav App Images/Menu Page.jpg" height=500px>
+  </picture>
+</p>
+
 Within the visual layout of this page, you will encounter the distinctive presence of the **SwiftNav logo**, serving as a visually cohesive representation of the application. Complementing this branding display are three prominently positioned buttons, each labeled with its designated function: **Geocoding**, **Reverse Geocoding** and **Business Search**. These buttons, thoughtfully integrated into the interface, stand as intuitive entry points to access specific functionalities, providing users with a **streamlined and interactive experience** as they navigate the diverse features offered by the **SwiftNav application**.
 
 
 ### Geocoding Page
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./SwiftNav App Images/GeoCoding.jpg">
+    <img src="./SwiftNav App Images/GeoCoding.jpg" height=500px>
+  </picture>
+</p>
 
 Within the confines of this page, you will discover a prominently featured **search bar**, meticulously designed to facilitate the input of addresses for geocoding purposes. Situated beneath the search bar is a **dedicated search button**, which promptly initiates an internet search, yielding precise results aligned with the entered address. The presented results encompass crucial details such as **Latitude, Longitude, City, Postal Code, State, Country, and Know More button for enhanced navigation in Google Maps**. Adding to its **user-friendly functionality**, the page incorporates a built-in feature enabling the **effortless copying** of coordinates to the clipboard, enhancing the overall versatility and ease of use for the **SwiftNav application**.
 
 
 ### Reverse Geocoding
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./SwiftNav App Images/Reverse Geocoding.jpg">
+    <img src="./SwiftNav App Images/Reverse Geocoding.jpg" height=500px>
+  </picture>
+</p>
+
 In a parallel fashion, the reverse geocoding functionality on this page is seamlessly integrated to facilitate a **user-friendly experience**. A dedicated **search bar** awaits user input of geographical coordinates, serving as the initial step in this process. Positioned just beneath, a **responsive search button** promptly initiates an internet search, culminating in the retrieval of precise information corresponding to the provided coordinates. The results, thoughtfully presented, encompass essential details such as the **location's name, city, Postal Code, State, Country and a convenient Know More button for comprehensive exploration in Google Maps**. Notably, this page also incorporates a built-in feature allowing users to **effortlessly copy** the address to the clipboard, adding an extra layer of convenience to the reverse geocoding experience within the **SwiftNav application**.
 
 
 ### Business Search
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./SwiftNav App Images/Business Search.jpg">
+    <img src="./SwiftNav App Images/Business Search.jpg" height=500px>
+  </picture>
+</p>
 
 **SwiftNav's business search functionality** is a sophisticated tool designed to elevate user experience through its intuitive and advanced features. Users are empowered to effortlessly explore various business categories **by entering both the business name and a specific location**. This **dual-input mechanism** ensures precise and tailored results. The application employs cutting-edge algorithms to swiftly identify and present relevant establishments, be it petrol stations, cinemas, or any specified business type, within the designated geographical area.
 
