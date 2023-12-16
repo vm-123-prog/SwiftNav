@@ -12,6 +12,9 @@
 
 <h3 align="center">
 Official website: https://swiftnav.netlify.com
+</h3>
+
+<h3 align="center">
 Official Video: https://youtu.be/gFU9TikSTM0
 </h3>
 
