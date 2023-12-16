@@ -22,6 +22,8 @@ Official Video: https://youtu.be/gFU9TikSTM0
 
 ## Introduction
 
+
+
 SwiftNav is an acronym representing **Seamless Wayfinding and Integrated Fast Tracking**. Swift Nav, an advanced Android application distinguished by its modern and intuitive user interface, serves as a sophisticated tool dedicated to the meticulous exploration of reviews related to various businesses or local establishments. With a focus on effectiveness, this application seamlessly integrates cutting-edge technology to enhance the user experience, providing a comprehensive platform for users to delve into reviews and feedback about a diverse range of businesses and local shops. Its user-friendly design and advanced features make it a valuable resource for those seeking insightful information to inform their decisions and experiences in navigating the local business landscape.This Android application currently encompasses three distinct features:
 
 - Geocoding, a pivotal feature within the application, is a sophisticated process that involves the extraction of precise geographic coordinates and comprehensive reviews associated with a given location, all facilitated seamlessly through the input of its designated name. This functionality not only enhances the accuracy of location-based information but also contributes to a more enriched and integrated user experience within the application.
@@ -89,7 +91,7 @@ In a parallel fashion, the reverse geocoding functionality on this page is seaml
   </picture>
 </p>
 
-**SwiftNav's business search functionality** is a sophisticated tool designed to elevate user experience through its intuitive and advanced features. Users are empowered to effortlessly explore various business categories **by entering both the business name and a specific location**. This **dual-input mechanism** ensures precise and tailored results. The application employs cutting-edge algorithms to swiftly identify and present relevant establishments, be it petrol stations, cinemas, or any specified business type, within the designated geographical area.
+**SwiftNav's business search functionality** is a sophisticated tool designed to elevate user experience through its intuitive and advanced features. Users are empowered to effortlessly explore various business categories **by entering both the business name and a specific location**. This **dual-input mechanism** ensures precise and tailored results. The application employs cutting-edge algorithms to swiftly identify and present relevant establishments, be it petrol stations, cinemas, or any specified business type, within the designated geographical area. On clicking a particular business in the list, we can explore more about it in Google Maps
 
 
 ## Programmatical Aspects
