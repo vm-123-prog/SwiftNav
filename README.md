@@ -31,7 +31,12 @@ SwiftNav is an acronym representing **Seamless Wayfinding and Integrated Fast Tr
 
 ### Splash Page
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Splash Page.jpg">
+    <img src="./Splash Page.jpg" height=500px>
+  </picture>
+</p>
 
 Upon initiating the application, users are greeted by a brief splash page that persists for a duration of three seconds. This initial screen prominently displays essential elements, including the SwiftNav logo, the application's name, and the name of its creator.
 
