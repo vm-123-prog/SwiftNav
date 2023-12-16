@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="210dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="200dp"
+                android:text="GeoCoding"
+                app:autoSizeTextType="uniform"
+                app:fontFamily="sans-serif-condensed-light" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/locationsrch"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="308dp"
+                android:layout_height="69dp"
+                android:layout_gravity="center"
+                android:hint="Enter Location Name"
+                android:layout_marginTop="20dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/buttonsrch"
+                android:layout_width="308dp"
+                android:layout_height="64dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:text="Search" />
+
+            <TextView
+                android:id="@+id/latitude"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Latitude:"
+                app:autoSizeTextType="uniform" />
+
+            <TextView
+                android:id="@+id/longitude"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Longitude:"
+                app:autoSizeTextType="uniform" />
+
+            <TextView
+                android:id="@+id/city"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="City: "
+                app:autoSizeTextType="uniform" />
+
+            <TextView
+                android:id="@+id/postalcode"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Postal Code:"
+                app:autoSizeTextType="uniform" />
+
+            <TextView
+                android:id="@+id/state"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="State: "
+                app:autoSizeTextType="uniform" />
+
+            <TextView
+                android:id="@+id/country"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Country: "
+                app:autoSizeTextType="uniform" />
+
+            <TextView
+                android:id="@+id/address"
+                android:layout_width="314dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Address: "
+                app:autoSizeTextType="uniform" />
+
+            <Button
+                android:id="@+id/knowmore"
+                android:layout_width="310dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="KNOW MORE" />
+
+            <Button
+                android:id="@+id/copy_button_cordinates"
+                android:layout_width="310dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="COPY COORDINATES" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
