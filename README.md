@@ -3,7 +3,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./documentation_images/CustomTkinter_logo_dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./Logo.png">
     <img src="./Logo.png">
   </picture>
 </p>
