@@ -18,7 +18,7 @@ Official website: https://swiftnav.netlify.com
 Official Video: https://youtu.be/gFU9TikSTM0
 </h3>
 
-# SwiftNav
+# SwiftNav (HERE API)
 
 ## Introduction
 
@@ -200,6 +200,7 @@ Business Search Recycler View item's not getting cleared, while staying on same 
 - [Android Studio Bumblebee 2021.1.1.23(Project)](https://github.com/vm-123-prog/SwiftNav/tree/main#programmatical-aspects)
 - [Figma(Logo)](https://www.figma.com/)
 - [JSON Viewer(For Viewing JSON response)](https://jsonviewer.stack.hu/)
+- [Here API(Backed for Location)](https://platform.here.com/)
 
 # Author
 
